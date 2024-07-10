@@ -29,7 +29,7 @@ We would like to express our gratitude to Ms.Srilakshmi Mam, our mentor and guid
 
 ## Contact Information
 
-If you have any questions or suggestions regarding this project, please feel free to reach out to M.Sruthi-21211a6628@bvrit.ac.in,M.Akshitha-21211a6630@bvrit.ac.in,R.vamsi-21211a6643@bvrit.ac.in,T.Srivarsha-21211a6655@bvrit.ac.in,U.Praveen-21211a6658@bvrit.ac.in.
+If you have any questions or suggestions regarding this project, please feel free to reach out to 21211a6628@bvrit.ac.in,21211a6630@bvrit.ac.in,21211a6643@bvrit.ac.in,21211a6655@bvrit.ac.in,21211a6658@bvrit.ac.in.
 
 
 Feel free to personalize the placeholders, such as Malapati Sruthi Laya Reddy, Praveen Uppari, Rampalli Vamsi, Thatikonda Srivarsha and Miyapuram Akshitha, B V Raju Institute Of Technology Narsapur,POS-Tagging-Using-Hidden-Markov-Model-HMM-and-the-Viterbi-Algorithm.
