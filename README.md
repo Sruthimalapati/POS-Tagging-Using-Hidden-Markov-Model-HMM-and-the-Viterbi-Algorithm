@@ -9,9 +9,9 @@ The Penn Treebank dataset, included in the NLTK library, serves as the training 
 
 The training script uses the Penn Treebank dataset to train a bigram HMM. The following HMM parameters are computed from the training data:
 
-Initial Probabilities: The probability of each POS tag being the start tag.
-Transition Probabilities: The probabilities of transitioning from one POS tag to another.
-Emission Probabilities: The probabilities of observing a word given a POS tag.
+### Initial Probabilities: The probability of each POS tag being the start tag.
+### Transition Probabilities: The probabilities of transitioning from one POS tag to another.
+### Emission Probabilities: The probabilities of observing a word given a POS tag.
 ## Tagging
 
 The tagging script implements the Viterbi algorithm to predict the POS tags for sentences in the test data. The Viterbi algorithm efficiently finds the most likely sequence of hidden states (POS tags) given the sequence of observed events (words).
